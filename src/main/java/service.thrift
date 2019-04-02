@@ -1,4 +1,4 @@
-namespace java com.example.thrift.api
+namespace java com.hjh.test.thrift.demo
 service HelloService {
     string greet(1:string name)
 }
